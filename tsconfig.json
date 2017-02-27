@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "ES5",
+    "module": "system",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "outDir": "./public",
+    "sourceMap": true,
+    "inlineSources": true,
+    "watch": true
+  }
+}
